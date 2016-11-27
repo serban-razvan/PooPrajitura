@@ -14,6 +14,6 @@
   
 #### In GameplayAnalyzer am creeat un nou obiect gModif in care folosesc matricea de nr_player * nr_player doar ca 2 * nr_player
 
-### Codul nu este absolut deloc modular, nu respecta aproape deloc paradigma POO si pe alocuri este duplicat, dar este cel mai mic cod pe care am putut sa il scriu pentru a rezolva cerinta, iar dumneavoastra cautati o solutie corecta, nu si una eleganta
+### Codul nu este absolut deloc modular, nu respecta aproape deloc paradigma POO si pe alocuri este duplicat, dar este cel mai mic cod pe care am putut sa il scriu pentru a rezolva cerinta deoarece dumneavoastra cautati o solutie corecta, nu si una eleganta
 
 >Prima persoana care ofera pe acest thread o solutie ***corecta*** de extindere codul de la NBA Stats For Coaches pentru a calcula <...> castiga o prajitura.
